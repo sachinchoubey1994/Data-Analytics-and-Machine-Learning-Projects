@@ -11,8 +11,8 @@ To edit the codes one can directy use Spyder or Jypyter or one can use code edit
 Any type of guidance, help or comment are warmly welcome. Actually, I request anyone and everyone to please contribute in some way or the other to make this work more efficient, effective and user-friendly.
 # Contact-Info
 Feel free to contact me for any issues, questions, or comments.
-E-mail:sachin8670@gmail.com
-Github: https://github.com/sachinchoubey1994
-Facebook: https://www.facebook.com/sachin.choubey.3363
+(E-mail:sachin8670@gmail.com)
+(Github: https://github.com/sachinchoubey1994)
+(Facebook: https://www.facebook.com/sachin.choubey.3363)
 
 
