@@ -2,7 +2,7 @@
 Here is the collection of assignments and projects I have done and going to do. For each of them I have provided the problem statements, source codes, and outputs.
 # Prerequisite
 ## IDE
-Language used here is python and library used numpy, scikit-learn, pandas and Networkx.
+Language used here is python and library used numpy, scikit-learn, pandas, matplotlib and Networkx.
 For Windows one of the best way to use these is through Anaconda. One need to simply install Anaconda for windows and use Spyder ide or Jupyter Notebook to run the codes.
 For Linux based systems one need to install anaconda script and use terninal to run the codes.
 ## Editor
