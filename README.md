@@ -1,5 +1,5 @@
 # Data-Analytics-and-Machine-Learning-Projects
-Here is the collection of assignments and projects I have done and going to do. For each of them I have provided the problem statements, source codes, and outputs. The data-set used are provided and a final report to answer the question and to meet the requirements of assigments.
+Here is the collection of assignments and projects I have done and going to do. It includes the assignments I have done in Machine Learning course taught by Prof. S. Ghosh at IIT Kharagpur. For each of the items, I have provided the problem statements, source codes, and outputs. The data-set used are provided and a final report to answer the question and to meet the requirements of assigments.
 # Prerequisite
 ## IDE
 Language used here is python and library used numpy, scikit-learn, pandas, matplotlib and Networkx.
