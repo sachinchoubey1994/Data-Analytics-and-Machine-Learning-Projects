@@ -1,5 +1,5 @@
 # Data-Analytics-and-Machine-Learning-Projects
-Here is the collection of assignments and projects I have done and going to do. For each of them I have provided the problem statements, source codes, and outputs.
+Here is the collection of assignments and projects I have done and going to do. For each of them I have provided the problem statements, source codes, and outputs. The data-set used are provided and a final report to answer the question and to meet the requirements of assigments.
 # Prerequisite
 ## IDE
 Language used here is python and library used numpy, scikit-learn, pandas, matplotlib and Networkx.
